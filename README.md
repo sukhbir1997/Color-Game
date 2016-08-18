@@ -14,7 +14,7 @@ Easy Mode-3 color choices
 
 Hard Mode -6 color choices
 
-This color game application is made as per thought by Colt Steele. Link is provided in the description to know more about him and his course. 
+This color game application is made as per thought by Colt Steele. To know more about him and his course, the Link is provided in the description. 
 
 Colt Steele: https://www.udemy.com/user/coltsteele/
 
